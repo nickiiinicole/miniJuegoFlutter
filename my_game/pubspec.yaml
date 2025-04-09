@@ -61,6 +61,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
+    - assets/images/atlas.png
     - assets/tiles/maps/
     - assets/mossy_cavern/tiles/
 
