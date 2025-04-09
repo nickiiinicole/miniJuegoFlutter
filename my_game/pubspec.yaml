@@ -32,6 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.14.0
+  flame_tiled: ^1.16.0
   cupertino_icons: ^1.0.8
 
   # The following adds the Cupertino Icons font to your application.
@@ -60,8 +61,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/maps/
-    - assets/images/mossy_cavern/
+    - assets/tiles/maps/
+    - assets/mossy_cavern/tiles/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
